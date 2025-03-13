@@ -28,6 +28,8 @@
 
 4. Ejecutar la aplicación.
 
+5. Interactuar con la aplicación y descubrir quién es el mejor candidato
+
    ```bash
    streamlit run compatibilidad_app.py
 
@@ -75,28 +77,6 @@ Los archivos de sonido reflejan la compatibilidad obtenida:
 #### requirements.txt
 - Contiene las dependencias necesarias para la ejecución del proyecto.
 
-## Instalación y Uso
-
-1. Clonar este repositorio o descargar los archivos.
-
-   ```bash
-   git clone <URL_DEL_REPO>
-   cd 30-novios-de-diana
-   ```
-
-2. Instalar las dependencias necesarias.
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Ejecutar la aplicación.
-
-   ```bash
-   streamlit run compatibilidad_app.py
-   ```
-
-4. Interactuar con la aplicación y descubrir quién es el mejor candidato.
 
 ## Requisitos
 
