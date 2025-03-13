@@ -19,8 +19,14 @@
    ```bash
    pip install -r requirements.txt
    ```
+   o
+   ```bash
+   pip install streamlit
+   pip install pandas
+   pip install streamlit_extras
+   ```
 
-3. Ejecutar la aplicación.
+4. Ejecutar la aplicación.
 
    ```bash
    streamlit run compatibilidad_app.py
