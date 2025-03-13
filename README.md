@@ -10,7 +10,7 @@
 1. Clonar este repositorio o descargar los archivos.
 
    ```bash
-   git clone <URL_DEL_REPO>
+   git clone https://github.com/ReginaRV2000/30noviosdiana.git
    cd 30-novios-de-diana
    ```
 
